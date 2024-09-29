@@ -2,6 +2,8 @@
 
 Welcome to the source code for my personal portfolio website, built using Next.js, React, and Tailwind CSS. This website showcases my professional background, projects, skills, and allows visitors to contact me directly.
 
+View my portfolio here [https://lawton-portfolio.vercel.app/](https://lawton-portfolio.vercel.app/)
+
 ## Features
 
 - **Responsive Design**: Fully responsive across different screen sizes.
