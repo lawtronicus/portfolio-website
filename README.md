@@ -30,23 +30,24 @@ To run this project locally:
 
 1. Clone the repository:
 
-   ````bash
+   ```bash
    git clone https://github.com/your-username/lawton-portfolio.git
-   cd lawton-portfolio```
-   ````
+   cd lawton-portfolio
+   ```
 
 2. Install the dependencies:
 
-   ````bash
-   npm install```
-   ````
+   ```bash
+   npm install
+
+   ```
 
 3. Run the development server:
 
-   ````bash
-   npm run dev```
+   ```bash
+   npm run dev
 
-   ````
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
