@@ -5,7 +5,7 @@ import { GrUserManager } from "react-icons/gr";
 import { MdToken } from "react-icons/md";
 import myflixAngular from "@/public/myflix-angular.png";
 import chatApp from "@/public/MyChatApp.jpeg";
-import meetUp from "@/public/meetup.png";
+import meetUp from "@/public/Meetup.png";
 import myflixReact from "@/public/myflix-react.png";
 import etchASketch from "@/public/etch-a-sketch.png";
 import calculator from "@/public/calculator.png";
